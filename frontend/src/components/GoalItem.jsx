@@ -12,7 +12,7 @@ function GoalItem({goal}) {
            {goal.text} 
         </h2>
         <button onClick = {()=>dispatch(deleteGoal(goal._id))} className = 'close'>
-
+          X
         </button>
     </div>
   )
