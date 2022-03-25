@@ -1,6 +1,7 @@
-# mern-tutorial
+npm install 
 
-Learning MERN stack
+cd frontend
 
-Deployed website:
-https://mernappruiyang.herokuapp.com/
+npm install
+
+npm run dev in root 
